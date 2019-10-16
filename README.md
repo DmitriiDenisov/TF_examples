@@ -4,10 +4,10 @@ Tutorials for begginers in Tensorflow library
 
 ### Content:
 
-1. `01_intro_to_tensorflow.ipynb` - 
-2. `02_tensorflow_examples_from_video.ipynb` - 
-3. `03_linear_digits_classification.ipynb` - 
-4. `04_convolutional_MNIST.ipynb` - 
+1. `01_intro_to_tensorflow.ipynb` - intro, how TF works, placeholders, sessions, Variables, gradients, optimizers
+2. `02_tensorflow_examples_from_video.ipynb` - examples of optimization, Tensorboard
+3. `04_convolutional_MNIST.ipynb` - Lniear model for MNIST with visualization
+4. `03_linear_digits_classification.ipynb` - Lnear and CNN for MNIST
 
 ### Version:
 
